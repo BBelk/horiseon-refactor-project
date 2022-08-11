@@ -7,6 +7,7 @@
 2. [Visuals](#visuals)
 
 ## Description
+This is a description
 [Link to live site](https://bbelk.github.io/horiseon-refactor-project/#online-reputation-management) 
 
 ## Visuals

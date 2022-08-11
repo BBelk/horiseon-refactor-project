@@ -77,6 +77,29 @@ section  {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* changed selector */
+section article {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* changed to articles to modify each piece */
+aside article {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* consolidated section articles h2 */
+section article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* changed to aside, tried to do it as a section but it wasn't cooperating */
 aside {
     margin-right: 20px;
@@ -88,11 +111,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* changed to articles to modify each piece */
-aside article {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+
 /* changed benefit h3s to aside article h3 */
 aside article h3 {
     margin-bottom: 10px;
@@ -106,15 +125,7 @@ aside article img {
     max-width: 150px;
 }
 
-/* changed selector */
-section article {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -128,20 +139,6 @@ section article {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 footer {
     padding: 30px;

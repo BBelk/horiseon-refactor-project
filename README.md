@@ -7,8 +7,8 @@
 2. [Visuals](#visuals)
 
 ## Description
-This is a description
+This is the home page for the Horiseon website. It includes links at the top that take the user down to the relevant information.
 [Link to live site](https://bbelk.github.io/horiseon-refactor-project/#online-reputation-management) 
 
 ## Visuals
-![Alt text](./assets/images/digital-marketing-meeting.jpg)
+![Alt text](./assets/images/HSO-Screenshot.png "Website Screenshot")
